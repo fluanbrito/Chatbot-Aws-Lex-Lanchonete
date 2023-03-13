@@ -1,10 +1,8 @@
 <hr>
 
-![Logo_CompassoUOL_Positivo](https://user-images.githubusercontent.com/94761781/212589731-3d9e9380-e9ea-4ea2-9f52-fc6595f8d3f0.png)
+# 📑 Chatbot Amazon lex - Lanchonete.
 
-# 📑 Avaliação Sprint 7 - Programa de Bolsas Compass UOL / AWS e IFCE
-
-Avaliação da sétima sprint do programa de bolsas Compass UOL para formação em machine learning para AWS.
+Trata-se de um chatbot desenvolvido para uso de uma lanchonete, que vende kit de salgados.
 
 <hr>
 <p align="center">
